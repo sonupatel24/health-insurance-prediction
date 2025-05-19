@@ -1,2 +1,3 @@
 # health-insurance-prediction
-A machine learning model to predict health insurance premiums based on user data.
+A Streamlit web application that predicts health insurance charges based on user input for variables such as age, gender, BMI, smoking status, number of dependents, and residential region. The app uses a machine learning regression model trained on medical insurance cost data.
+
